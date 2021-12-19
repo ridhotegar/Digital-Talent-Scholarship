@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User\'s 2</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="share">Share</string>
+
+    <string-array name="tabs">
+        <item>Followers</item>
+        <item>Following</item>
+    </string-array>
+</resources>
